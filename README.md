@@ -11,14 +11,14 @@ https://github.com/Aditya-myst/nika-crowdfunding-dapp
 
 **cd into the Client Folder**
 
-```bash
-cd nika-crowdfunding-dapp && cd client
-```
-
 **Install the dependencies**
 
 ```javascript
 npm install
+```
+
+```bash
+cd nika-crowdfunding-dapp && cd client
 ```
 
 **Start the development server**
