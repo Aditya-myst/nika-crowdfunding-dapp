@@ -10,15 +10,14 @@ Nika CrowdFunding dapp for web3 developers and startups. Its smart contract allo
 # Project Website Link
 This is a decentralized crowdfunding platform built on Ethereum blockchain. The platform allows users to create and support crowdfunding campaigns.
 
-Github Link: https://github.com/anajembaedwin/nika-crowdfunding-dapp
 
-Production Link: https://nika-crowdfunding-dapp.vercel.app/
+
 
 # Project Author
 
 Edwin - Initial work
 
-Github Link: https://github.com/anajembaedwin
+
 
 # How to Install and Run the Project
 **Clone the repository**
