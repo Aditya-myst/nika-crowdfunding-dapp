@@ -1,15 +1,6 @@
 # Project Title
 Nika Crowdfunding dApp
 
-# Project Website Link
-This is a decentralized crowdfunding platform built on Ethereum blockchain. The platform allows users to create and support crowdfunding campaigns.
-
-
-
-
-
-
-
 
 # How to Install and Run the Project
 **Clone the repository**
