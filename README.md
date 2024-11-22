@@ -23,7 +23,7 @@ Edwin - Initial work
 **Clone the repository**
 
 ```javascript
-git clone https://github.com/anajembaedwin/nika-crowdfunding-dapp.git
+https://github.com/Aditya-myst/nika-crowdfunding-dapp
 ```
 
 **cd into the Client Folder**
