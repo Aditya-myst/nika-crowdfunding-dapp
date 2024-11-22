@@ -7,9 +7,7 @@ This is a decentralized crowdfunding platform built on Ethereum blockchain. The 
 
 
 
-# Project Author
 
-Edwin - Initial work
 
 
 
